@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+transformers
+requests
+beautifulsoup4
+TensorFlow >= 2.0

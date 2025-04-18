@@ -1,0 +1,114 @@
+# === Python / FastAPI (Backend) ===
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Python cache and test artifacts
+.cache/
+.pytest_cache/
+.coverage
+.coverage.*
+.tox/
+.nox/
+htmlcov/
+coverage.xml
+
+# Type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VSCode or other IDE settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Hugging Face cache
+~/.cache/huggingface/
+.cache/huggingface/
+
+# dotenv (env vars)
+.env
+.env.*
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Uvicorn logs
+access.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# === Frontend (React / Vue / etc.) ===
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Cache & logs
+.npm/
+.npm-cache/
+.yarn-cache/
+.pnpm-store/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Local env
+.env
+.env.*
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Testing
+coverage/
+*.lcov
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Storybook
+.out/
+.storybook-out/
+
+# Misc
+*.tgz
+*.log
+*.gz
+
+# Service workers / static build cache
+workbox-*.js
+sw.js
+precache-manifest.*
+manifest.webmanifest
+
+# Optional: Ignore build files pushed accidentally
+frontend/build/
+frontend/dist/
