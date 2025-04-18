@@ -2,6 +2,6 @@ fastapi
 uvicorn[standard]
 pydantic
 transformers
+torch
 requests
 beautifulsoup4
-TensorFlow >= 2.0
